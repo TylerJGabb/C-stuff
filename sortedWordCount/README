@@ -1,0 +1,9 @@
+counts the unique words in a text document and prints them out in descending
+order of count
+
+
+
+
+$make mobyDickTop10
+compiles the code in the directory and prints out the top 10 most occuring unique words
+in mobyDick.txt

@@ -1,0 +1,14 @@
+reverse polish notation calculator
+
+$make run
+
+will start the program after compiling, which then takes integers and operators (+,/,-,*)
+
+numbers and operators are delimited with space
+
+
+example:
+
+2 2 2 * * 
+	= 8
+
